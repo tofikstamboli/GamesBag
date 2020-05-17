@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029724461130",
+    "firebase_url": "https://gamesbag-e5c37.firebaseio.com",
+    "project_id": "gamesbag-e5c37",
+    "storage_bucket": "gamesbag-e5c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029724461130:android:61dd497a6b827c8b90eeb3",
+        "android_client_info": {
+          "package_name": "com.example.gamesbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029724461130-8ghponssk7d2q7k4pqc8r30run1a8p3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp679DmzOE21sQNAllu7hBFUBkLuWuTfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029724461130-8ghponssk7d2q7k4pqc8r30run1a8p3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

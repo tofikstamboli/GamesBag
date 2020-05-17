@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GamesBag</string>
+    <!--Ad unit ID-->
+    <string name="admob_banner_ad">ca-app-pub-3306270630045532/9042995609</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3306270630045532/1519728802</string>
+    <string name="admob_native_ad">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>
+</resources>
