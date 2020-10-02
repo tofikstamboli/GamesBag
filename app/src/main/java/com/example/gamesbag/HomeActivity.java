@@ -38,7 +38,7 @@ public class HomeActivity extends Activity {
 
     private void initRecyclerView() {
 //New line added by sonal
-//trialBySonal
+//trialBySonal --> Approved by Tofik
         //Create dummy data for RecyclerView
         int listSize = 50;
         int ITEM = 0;
